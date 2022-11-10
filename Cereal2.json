@@ -38,8 +38,8 @@
           "K": 482.7586206896551
         "servingSize_cup" : N/A,
         "servingSize_Gram" : 29 
-        },
-        {
+     },
+     {
         "label": "Kellogg's Krave Breakfast Cereal Chocolate",
         "knownAs": "Kellogg's Krave Breakfast Cereal Chocolate",
         "nutrients": {
@@ -56,5 +56,7 @@
           "NA": 303.23231462568674,
           "FE": 11.696103770694252
         }
+         
         ]
-        }
+         
+ }
