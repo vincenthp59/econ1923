@@ -1,60 +1,58 @@
 {
-    "information" :    {
-        "url" : "https://www.barcodespider.com/cereal",
-        "period" : "November, 2022",
-        "contributor" : "Adam Dong"
-                    },
-    "cereal" : [
-    {
-        "label" : "Activia Yogurt Lowfat, Strawberry & Cereal/Pineapple & Cereal, 12 Pack, 12.0 Ea",
-          "ENERC_KCAL": 88.49557522123894,
-          "FAT": 1.3274336283185841,
-          "FASAT": 0.8849557522123894,
-          "FATRN": 0,
-          "CHOCDF": 16.8141592920354,
-          "FIBTG": 2.6548672566371683,
-          "SUGAR": 11.504424778761063,
-          "PROCNT": 3.5398230088495577,
-          "CHOLE": 4.424778761061948,
-          "NA": 48.67256637168142,
-          "CA": 132.7433628318584,
-          "K": 150.4424778761062,
-          "VITD": 1.3274336283185841
-        "servingSize_cup" : N/A,
-        "servingSize_Gram" : 113
-    },
-    {
-      "label" : "Cheerios Multi Grain Lightly Sweetned Cereal",
-          "ENERC_KCAL": 379.31034482758616,
-          "FAT": 3.4482758620689653,
-          "FASAT": 0,
-          "FATRN": 0,
-          "CHOCDF": 82.75862068965517,
-          "FIBTG": 10.344827586206897,
-          "SUGAR": 0,
-          "PROCNT": 6.896551724137931,
-          "CHOLE": 0,
-          "NA": 413.7931034482758,
-          "K": 482.7586206896551
-        "servingSize_cup" : N/A,
-        "servingSize_Gram" : 29 
-        },
-        {
-        "label": "Kellogg's Krave Breakfast Cereal Chocolate",
-        "knownAs": "Kellogg's Krave Breakfast Cereal Chocolate",
-        "nutrients": {
-          "ENERC_KCAL": 368.21066775976243,
-          "FAT": 9.746752970111359,
-          "FASAT": 2.165945104469191,
-          "FATRN": 0,
-          "FAMS": 2.165945104469191,
-          "CHOCDF": 69.31024334301411,
-          "FIBTG": 4.331890208938382,
-          "SUGAR": 32.489176567037866,
-          "PROCNT": 6.497835313407572,
-          "CHOLE": 0,
-          "NA": 303.23231462568674,
-          "FE": 11.696103770694252
-        }
-        ]
-        }
+	"information": {
+		"url": "https://www.barcodespider.com/cereal",
+		"period": "November, 2022",
+		"contributor": "Adam Dong"
+	},
+	"cereal": [{
+			"label": "Activia Yogurt Lowfat, Strawberry & Cereal/Pineapple & Cereal, 12 Pack, 12.0 Ea",
+			"ENERC_KCAL": 88.49557522123894,
+			"FAT": 1.3274336283185841,
+			"FASAT": 0.8849557522123894,
+			"FATRN": 0,
+			"CHOCDF": 16.8141592920354,
+			"FIBTG": 2.6548672566371683,
+			"SUGAR": 11.504424778761063,
+			"PROCNT": 3.5398230088495577,
+			"CHOLE": 4.424778761061948,
+			"NA": 48.67256637168142,
+			"CA": 132.7433628318584,
+			"K": 150.4424778761062,
+			"VITD": 1.3274336283185841,
+			"servingSize_cup": null,
+			"servingSize_Gram": 113
+		},
+		{
+			"label": "Cheerios Multi Grain Lightly Sweetned Cereal",
+			"ENERC_KCAL": 379.31034482758616,
+			"FAT": 3.4482758620689653,
+			"FASAT": 0,
+			"FATRN": 0,
+			"CHOCDF": 82.75862068965517,
+			"FIBTG": 10.344827586206897,
+			"SUGAR": 0,
+			"PROCNT": 6.896551724137931,
+			"CHOLE": 0,
+			"NA": 413.7931034482758,
+			"K": 482.7586206896551,
+			"servingSize_cup": null,
+			"servingSize_Gram": 29
+		},
+		{
+			"label": "Kellogg's Krave Breakfast Cereal Chocolate",
+			"knownAs": "Kellogg's Krave Breakfast Cereal Chocolate",
+			"ENERC_KCAL": 368.21066775976243,
+			"FAT": 9.746752970111359,
+			"FASAT": 2.165945104469191,
+			"FATRN": 0,
+			"FAMS": 2.165945104469191,
+			"CHOCDF": 69.31024334301411,
+			"FIBTG": 4.331890208938382,
+			"SUGAR": 32.489176567037866,
+			"PROCNT": 6.497835313407572,
+			"CHOLE": 0,
+			"NA": 303.23231462568674,
+			"FE": 11.696103770694252
+		}
+	]
+}
